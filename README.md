@@ -8,5 +8,5 @@
 
 ## Results
 <p align="center">
-<img src = "https://github.com/efedoganay/kmeans-image-compression-from-scratch/blob/main/kmeans_results.png">
+<img src = "https://github.com/efedoganay/kmeans-image-compression-from-scratch/blob/main/kmeans_results.png" height="500" width="500">
 </p>
