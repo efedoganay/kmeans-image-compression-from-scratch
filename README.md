@@ -1,2 +1,12 @@
 # kmeans-image-compression-from-scratch
-Compression of images by reducing color space using K-Means clustering.
+## Notes
+1. K-Means algorithm is stochastic due to the random centroid initialization. In order to reproduce the same results, you can add ``` np.random.seed(0) ```
+
+## TODO
+1. Add loss function.
+2. Add the bisecting K-Means version.
+
+## Results
+<p align="center">
+<img src = "https://github.com/efedoganay/kmeans-image-compression-from-scratch/blob/main/kmeans_results.png">
+</p>
