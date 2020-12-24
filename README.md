@@ -6,7 +6,7 @@
 1. Add loss function.
 2. Add the bisecting K-Means version.
 
-## Results
+## Example Result
 <p align="center">
 <img src = "https://github.com/efedoganay/kmeans-image-compression-from-scratch/blob/main/kmeans_results.png" height="500" width="500">
 </p>
